@@ -1,0 +1,14 @@
+2008-03-03 08:49:53 HallBedroomDoor ON 1 1  
+2008-03-03 08:49:58 HallBedroomDoor ON 1 1  
+2008-03-03 09:01:38 PlatesCupboard ON 1 3  
+2008-03-03 09:01:44 GroceriesCupboard ON 1 3  
+2008-03-03 09:01:48 GroceriesCupboard ON 1 3  
+2008-03-03 09:02:00 PlatesCupboard ON 1 3  
+2008-03-03 09:02:04 GroceriesCupboard ON 1 3  
+2008-03-03 09:02:07 Fridge ON 1 3  
+2008-03-03 09:02:25 Fridge ON 1 3  
+2008-03-03 09:17:23 HallToiletDoor ON 1 4  
+2008-03-03 09:17:41 HallToiletDoor ON 1 4  
+2008-03-03 09:31:35 HallToiletDoor ON 1 4  
+2008-03-03 09:31:40 HallToiletDoor ON 1 4  
+2008-03-03 09:45:05 Frontdoor ON 1 5  
